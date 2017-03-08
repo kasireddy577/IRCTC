@@ -3,7 +3,6 @@ hindhi
 english
 hollywood
 kollywood
-this is the file added
 one 
 two 
 my name is nani
@@ -13,8 +12,3 @@ e roja padledha ppa
 one way 
 one way
 this is the file added
-one 
-two 
-run raja run
-three  four five six seven eight 
-nine ten
