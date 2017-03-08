@@ -1,4 +1,4 @@
-this is the java file  written for simple code 
+devuda devuda devuda hey bagavan ne panikimalina yadava hey bagavan
 public class HelloWorldExample{
  
   public static void main(String args[]){
