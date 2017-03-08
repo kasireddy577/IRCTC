@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 eh rathe e mousam kabhi dan wala me chal chal hua
 hindhi
 english
@@ -7,6 +8,17 @@ this is the file added
 one 
 two 
 my name is nani
+=======
+rajadhi rajanappa 
+ne raji padalenappa 
+e roja padledha ppa
+one way 
+one way
+this is the file added
+one 
+two 
+run raja run
+>>>>>>> 1b6fb5b05f1a1014b058b42478fa95bbd115336f
 thre  four five six seven eight 
 nine ten
 
